@@ -1,0 +1,10 @@
+.mapStyle{
+  width: 80%;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.textCenter{
+  text-align:center;
+}
